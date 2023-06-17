@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bahram-ashrafi
 - 👀 I’m interested in javaScript family
-- 🌱 I’m currently learning Nuxt.js
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on front-end project
 - 📫 How to reach me: bahram.ashrafi@gmail.com
 
